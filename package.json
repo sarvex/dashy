@@ -47,24 +47,24 @@
     "rss-parser": "3.13.0"
   },
   "devDependencies": {
-    "@architect/sandbox": "^4.5.2",
-    "@babel/preset-env": "^7.17.10",
-    "@vue/cli-plugin-babel": "^4.5.15",
-    "@vue/cli-plugin-eslint": "^4.5.15",
-    "@vue/cli-plugin-pwa": "^4.5.15",
-    "@vue/cli-service": "^4.5.15",
-    "@vue/eslint-config-standard": "^4.0.0",
+    "@architect/sandbox": "4.5.2",
+    "@babel/preset-env": "7.18.2",
+    "@vue/cli-plugin-babel": "4.5.17",
+    "@vue/cli-plugin-eslint": "4.5.17",
+    "@vue/cli-plugin-pwa": "4.5.17",
+    "@vue/cli-service": "4.5.17",
+    "@vue/eslint-config-standard": "4.0.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^7.24.0",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-plugin-vue": "^7.9.0",
-    "npm-run-all": "^4.1.5",
-    "progress-bar-webpack-plugin": "^2.1.0",
-    "sass": "^1.38.0",
-    "sass-loader": "^7.1.0",
-    "vue-cli-plugin-yaml": "^1.0.2",
-    "vue-svg-loader": "^0.16.0",
-    "vue-template-compiler": "^2.7.0"
+    "npm-run-all": "4.1.5",
+    "progress-bar-webpack-plugin": "2.1.0",
+    "sass": "1.52.2",
+    "sass-loader": "7.3.1",
+    "vue-cli-plugin-yaml": "1.0.2",
+    "vue-svg-loader": "0.16.0",
+    "vue-template-compiler": "2.7.8"
   },
   "engines": {
     "node": ">=16.0.0 <18.0.0"
